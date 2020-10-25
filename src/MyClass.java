@@ -6,9 +6,9 @@ public class MyClass {
 		System.out.println("Hello World Program");
 		String str = "Pune is the City";
 		ArrayList<String> ls = new ArrayList<String>();
-		ls.add("one");
-		ls.add("Two");
-		ls.add("Three");
+		ls.add("one1");
+		ls.add("Two1");
+		ls.add("Three11");
 		ls.add("Four");
 		ls.add("Five");
 		
